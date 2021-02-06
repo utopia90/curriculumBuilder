@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8bd6d67.chunk.css",
+    "main.js": "/static/js/main.0962ddec.chunk.js",
+    "main.js.map": "/static/js/main.0962ddec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.47e11eaf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.47e11eaf.js.map",
+    "static/js/2.7d85a215.chunk.js": "/static/js/2.7d85a215.chunk.js",
+    "static/js/2.7d85a215.chunk.js.map": "/static/js/2.7d85a215.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a8bd6d67.chunk.css.map": "/static/css/main.a8bd6d67.chunk.css.map",
+    "static/js/2.7d85a215.chunk.js.LICENSE.txt": "/static/js/2.7d85a215.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/exchange-arrow.cb5aaafc.svg",
+    "static/media/applergic-definitive.a7c59d57.gif": "/static/media/applergic-definitive.a7c59d57.gif",
+    "static/media/chingu-solo-project.da3f2b1e.gif": "/static/media/chingu-solo-project.da3f2b1e.gif",
+    "static/media/covid19.ecf34328.gif": "/static/media/covid19.ecf34328.gif",
+    "static/media/game-of-thrones.8d76a18d.gif": "/static/media/game-of-thrones.8d76a18d.gif",
+    "static/media/HomePage.css": "/static/media/hamburguer.db4472bf.svg",
+    "static/media/hypatia-app.63161047.gif": "/static/media/hypatia-app.63161047.gif",
+    "static/media/pdf.7570290a.svg": "/static/media/pdf.7570290a.svg",
+    "static/media/pink-me.1bf5265a.png": "/static/media/pink-me.1bf5265a.png",
+    "static/media/question.27cd6f39.svg": "/static/media/question.27cd6f39.svg",
+    "static/media/right-arrow.a640abbc.png": "/static/media/right-arrow.a640abbc.png",
+    "static/media/shopeame.3c4fc296.gif": "/static/media/shopeame.3c4fc296.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47e11eaf.js",
+    "static/js/2.7d85a215.chunk.js",
+    "static/css/main.a8bd6d67.chunk.css",
+    "static/js/main.0962ddec.chunk.js"
+  ]
+}
